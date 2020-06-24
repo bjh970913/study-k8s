@@ -1,0 +1,6 @@
+[submodule "demo"]
+	path = demo
+	url = ./demo
+[submodule "demo-src"]
+	path = demo-src
+	url = git@github.com:cloudnativedevops/demo
